@@ -1,0 +1,9 @@
+{
+  "name": "society",
+  "version": "1.0.0",
+  "description": "A platform for collaboration of House of Software members",
+  "main": "index.js",
+  "repository": "https://github.com/zepod/houseofsoftware",
+  "author": "zepod <albert.nemec2457@gmail.com>",
+  "license": "MIT"
+}
